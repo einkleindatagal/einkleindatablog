@@ -1,7 +1,7 @@
 ---
-title: My GitHub Pages Notebook!
+Ein Klein Blog: A data gal's blog
 ---
 
-Hello world!
+Hi!
 
-Write some words here!
+This is the personal blog of Erin Klein, a data gal learning all she needs to build a societal simulator. 
