@@ -1,3 +1,7 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// $fa-font-path: "../node_modules/@fortawesome/fontawesome-free/webfonts";
+$fa-font-path: "/static/fonts";
+@import "../../node_modules/@fortawesome/fontawesome-free/scss/fontawesome";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/brands";
+@import "../node_modules/@fortawesome/fontawesome-free/scss/regular";
